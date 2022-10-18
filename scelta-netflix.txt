@@ -1,0 +1,21 @@
+START
+
+Aprire l'app di Netflix
+
+Scorrere la lista di film e serie tv
+
+Scelgo un film oppure una serie tv
+
+SE il film OPPURE la serie tv rispetta i propri gusti
+
+    - Selezionare il film o la serie tv scelta
+
+    SE la serie tv mi piace AND ho il tempo di guardarla
+    - guardo il film o la serie tv scelta
+
+    ALTRIMENTI scorro la lista di film e serie tv
+    END SE
+
+ALTRIMENTI continuo a scorre i film e le serie tv
+
+END
